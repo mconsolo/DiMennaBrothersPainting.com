@@ -1,0 +1,8 @@
+180.76.15.140 - - [27/Dec/2015:17:07:10 -0800] "GET /robots.txt HTTP/1.1" 200 54 "-" "Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2" "www.dimennabrotherspainting.com"
+180.76.15.159 - - [27/Dec/2015:17:10:03 -0800] "GET / HTTP/1.1" 200 6951 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" "www.dimennabrotherspainting.com"
+107.131.160.240 - - [27/Dec/2015:18:24:03 -0800] "GET /sitemap.xml HTTP/1.1" 200 915 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36" "dimennabrotherspainting.com"
+180.76.15.146 - - [27/Dec/2015:23:04:19 -0800] "GET / HTTP/1.1" 200 6951 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" "dimennabrotherspainting.com"
+212.47.253.128 - - [28/Dec/2015:04:29:54 -0800] "GET /about_us HTTP/1.1" 200 14653 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "dimennabrotherspainting.com"
+45.55.134.12 - - [28/Dec/2015:13:57:33 -0800] "GET / HTTP/1.1" 200 6951 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:29.0) Gecko/20100101 Firefox/29.0" "dimennabrotherspainting.com"
+45.55.134.12 - - [28/Dec/2015:13:57:34 -0800] "GET /_js/responsiveslides.min.js HTTP/1.1" 200 3397 "http://dimennabrotherspainting.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:29.0) Gecko/20100101 Firefox/29.0" "dimennabrotherspainting.com"
+45.55.134.12 - - [28/Dec/2015:13:57:34 -0800] "GET /_js/jquery-1.11.0.min.js HTTP/1.1" 200 96380 "http://dimennabrotherspainting.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:29.0) Gecko/20100101 Firefox/29.0" "dimennabrotherspainting.com"

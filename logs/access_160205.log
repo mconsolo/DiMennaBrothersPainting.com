@@ -1,0 +1,5 @@
+54.209.209.198 - - [03/Feb/2016:20:18:14 -0800] "HEAD / HTTP/1.1" 200 0 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.17 Safari/537.36" "dimennabrotherspainting.com"
+180.76.15.155 - - [03/Feb/2016:23:35:54 -0800] "GET / HTTP/1.1" 200 6951 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" "www.dimennabrotherspainting.com"
+64.235.52.218 - - [04/Feb/2016:05:09:34 -0800] "GET / HTTP/1.1" 200 6951 "-" "Mozilla/5.0 (compatible; houzzbot; +http://www.houzz.com/)" "dimennabrotherspainting.com"
+27.50.67.48 - - [04/Feb/2016:05:29:46 -0800] "HEAD / HTTP/1.1" 200 0 "-" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)" "dimennabrotherspainting.com"
+193.90.12.89 - - [04/Feb/2016:06:41:12 -0800] "GET / HTTP/1.1" 200 6951 "http://burger-imperia.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36" "dimennabrotherspainting.com"

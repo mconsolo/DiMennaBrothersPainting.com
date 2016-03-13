@@ -1,0 +1,8 @@
+62.210.90.118 - - [16/Jan/2016:21:19:26 -0800] "GET /robots.txt HTTP/1.1" 200 54 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "dimennabrotherspainting.com"
+64.235.52.218 - - [17/Jan/2016:05:09:21 -0800] "GET /robots.txt HTTP/1.1" 200 54 "-" "Mozilla/5.0 (compatible; houzzbot; +http://www.houzz.com/)" "dimennabrotherspainting.com"
+64.235.52.218 - - [17/Jan/2016:05:09:21 -0800] "GET / HTTP/1.1" 200 6951 "-" "Mozilla/5.0 (compatible; houzzbot; +http://www.houzz.com/)" "dimennabrotherspainting.com"
+180.76.15.143 - - [17/Jan/2016:06:15:54 -0800] "GET / HTTP/1.1" 200 6951 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" "www.dimennabrotherspainting.com"
+180.76.15.147 - - [17/Jan/2016:06:16:00 -0800] "GET /about_us HTTP/1.1" 200 15097 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" "dimennabrotherspainting.com"
+176.126.252.11 - - [17/Jan/2016:07:17:16 -0800] "GET / HTTP/1.1" 200 6951 "http://burger-imperia.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36" "dimennabrotherspainting.com"
+66.249.75.202 - - [17/Jan/2016:15:43:13 -0800] "GET /services HTTP/1.1" 200 17422 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "dimennabrotherspainting.com"
+180.76.15.154 - - [17/Jan/2016:15:49:28 -0800] "GET /about_us HTTP/1.1" 200 14653 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" "www.dimennabrotherspainting.com"

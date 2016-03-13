@@ -1,0 +1,8 @@
+180.76.15.161 - - [16/Dec/2015:20:42:01 -0800] "GET /_js/jquery-1.11.0.min.js HTTP/1.1" 200 96380 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" "www.dimennabrotherspainting.com"
+45.33.61.138 - - [16/Dec/2015:22:34:35 -0800] "HEAD / HTTP/1.1" 200 0 "http://scripted.com/dimennabrotherspainting.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36" "dimennabrotherspainting.com"
+180.76.15.17 - - [16/Dec/2015:23:12:33 -0800] "GET /about_us HTTP/1.1" 200 14653 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" "www.dimennabrotherspainting.com"
+64.235.52.218 - - [17/Dec/2015:04:51:09 -0800] "GET /robots.txt HTTP/1.1" 200 54 "-" "Mozilla/5.0 (compatible; houzzbot; +http://www.houzz.com/)" "dimennabrotherspainting.com"
+180.76.15.137 - - [17/Dec/2015:06:01:19 -0800] "GET /home HTTP/1.1" 200 34853 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" "dimennabrotherspainting.com"
+141.8.143.159 - - [17/Dec/2015:07:47:56 -0800] "GET /robots.txt HTTP/1.1" 200 54 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)" "dimennabrotherspainting.com"
+100.43.81.138 - - [17/Dec/2015:10:41:17 -0800] "GET /_assets/DiMenna_107.jpg HTTP/1.1" 200 181650 "-" "Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)" "dimennabrotherspainting.com"
+180.76.15.156 - - [17/Dec/2015:11:38:04 -0800] "GET /about.html HTTP/1.1" 200 6204 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" "www.dimennabrotherspainting.com"

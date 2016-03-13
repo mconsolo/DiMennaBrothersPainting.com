@@ -1,0 +1,6 @@
+66.249.64.147 - - [12/Nov/2015:17:35:17 -0800] "GET /contact-us/ HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "dimennabrotherspainting.com"
+66.249.64.150 - - [12/Nov/2015:17:37:10 -0800] "GET /home HTTP/1.1" 200 35300 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "www.dimennabrotherspainting.com"
+207.46.13.6 - - [12/Nov/2015:17:55:10 -0800] "GET /robots.txt HTTP/1.1" 200 54 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "www.dimennabrotherspainting.com"
+40.77.167.39 - - [12/Nov/2015:19:05:30 -0800] "GET /contact.php HTTP/1.1" 200 4634 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "www.dimennabrotherspainting.com"
+40.77.167.33 - - [13/Nov/2015:05:08:24 -0800] "GET /robots.txt HTTP/1.1" 200 54 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "www.dimennabrotherspainting.com"
+80.26.90.106 - - [13/Nov/2015:05:49:03 -0800] "GET / HTTP/1.1" 200 34856 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.91 Chromium/12.0.742.91 Safari/534.30" "dimennabrotherspainting.com"
