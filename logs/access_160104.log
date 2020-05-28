@@ -1,6 +1,0 @@
-144.76.7.107 - - [03/Jan/2016:02:43:26 -0800] "GET /robots.txt HTTP/1.1" 200 54 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "dimennabrotherspainting.com"
-144.76.7.107 - - [03/Jan/2016:02:43:32 -0800] "GET /index.html HTTP/1.1" 200 6951 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "dimennabrotherspainting.com"
-144.76.7.107 - - [03/Jan/2016:02:43:33 -0800] "GET /services.html HTTP/1.1" 200 6875 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "dimennabrotherspainting.com"
-64.235.52.218 - - [03/Jan/2016:05:13:41 -0800] "GET /robots.txt HTTP/1.1" 200 54 "-" "Mozilla/5.0 (compatible; houzzbot; +http://www.houzz.com/)" "dimennabrotherspainting.com"
-64.235.52.218 - - [03/Jan/2016:05:13:41 -0800] "GET / HTTP/1.1" 200 6951 "-" "Mozilla/5.0 (compatible; houzzbot; +http://www.houzz.com/)" "dimennabrotherspainting.com"
-66.249.69.55 - - [03/Jan/2016:09:55:51 -0800] "GET /services HTTP/1.1" 200 16978 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "www.dimennabrotherspainting.com"

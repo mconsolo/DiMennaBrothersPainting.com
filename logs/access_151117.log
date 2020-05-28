@@ -1,3 +1,0 @@
-180.76.15.7 - - [16/Nov/2015:04:34:24 -0800] "GET /about.html HTTP/1.1" 200 6204 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" "www.dimennabrotherspainting.com"
-67.55.84.212 - - [16/Nov/2015:07:35:55 -0800] "HEAD / HTTP/1.1" 200 0 "http://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36" "dimennabrotherspainting.com"
-180.76.15.151 - - [16/Nov/2015:15:13:59 -0800] "GET /robots.txt HTTP/1.1" 200 54 "-" "Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2" "www.dimennabrotherspainting.com"

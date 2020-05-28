@@ -1,6 +1,0 @@
-64.235.52.218 - - [20/Jan/2016:04:46:58 -0800] "GET / HTTP/1.1" 200 6951 "-" "Mozilla/5.0 (compatible; houzzbot; +http://www.houzz.com/)" "dimennabrotherspainting.com"
-180.76.15.145 - - [20/Jan/2016:06:18:55 -0800] "GET / HTTP/1.1" 200 6951 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" "dimennabrotherspainting.com"
-37.59.7.115 - - [20/Jan/2016:11:10:45 -0800] "GET //wp-login.php HTTP/1.1" 200 73 "-" "Mozilla/5.0 (X11; U; Linux i686; pt-BR; rv:1.9.0.15) Gecko/2009102815 Ubuntu/9.04 (jaunty) Firefox/3.0.15" "dimennabrotherspainting.com"
-37.59.7.115 - - [20/Jan/2016:11:10:45 -0800] "GET /wordpress//wp-login.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (X11; U; Linux i686; pt-BR; rv:1.9.0.15) Gecko/2009102815 Ubuntu/9.04 (jaunty) Firefox/3.0.15" "dimennabrotherspainting.com"
-37.59.7.115 - - [20/Jan/2016:11:10:46 -0800] "GET /wp//wp-login.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (X11; U; Linux i686; pt-BR; rv:1.9.0.15) Gecko/2009102815 Ubuntu/9.04 (jaunty) Firefox/3.0.15" "dimennabrotherspainting.com"
-5.61.40.20 - - [20/Jan/2016:14:53:42 -0800] "GET / HTTP/1.1" 200 6951 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.6) Gecko/20100625 Firefox/3.6.6" "dimennabrotherspainting.com"

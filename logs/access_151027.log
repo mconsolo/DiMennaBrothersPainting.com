@@ -1,6 +1,0 @@
-207.46.13.6 - - [25/Oct/2015:19:10:56 -0700] "GET /about.html HTTP/1.1" 200 6204 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "www.dimennabrotherspainting.com"
-157.55.39.204 - - [25/Oct/2015:19:59:43 -0700] "GET / HTTP/1.1" 200 6847 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "www.dimennabrotherspainting.com"
-180.76.15.13 - - [26/Oct/2015:01:01:01 -0700] "GET / HTTP/1.1" 200 6847 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" "dimennabrotherspainting.com"
-66.249.75.107 - - [26/Oct/2015:03:32:04 -0700] "GET /robots.txt HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "www.dimennabrotherspainting.com"
-180.76.15.139 - - [26/Oct/2015:03:40:52 -0700] "GET / HTTP/1.1" 200 6847 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" "www.dimennabrotherspainting.com"
-157.55.39.0 - - [26/Oct/2015:05:04:06 -0700] "GET /robots.txt HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "www.dimennabrotherspainting.com"

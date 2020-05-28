@@ -1,6 +1,0 @@
-180.76.15.30 - - [27/Dec/2015:00:20:18 -0800] "GET / HTTP/1.1" 200 6951 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" "dimennabrotherspainting.com"
-64.235.52.218 - - [27/Dec/2015:05:12:16 -0800] "GET /robots.txt HTTP/1.1" 200 54 "-" "Mozilla/5.0 (compatible; houzzbot; +http://www.houzz.com/)" "dimennabrotherspainting.com"
-64.235.52.218 - - [27/Dec/2015:05:12:16 -0800] "GET / HTTP/1.1" 200 6951 "-" "Mozilla/5.0 (compatible; houzzbot; +http://www.houzz.com/)" "dimennabrotherspainting.com"
-176.9.10.227 - - [27/Dec/2015:05:38:29 -0800] "GET /index.html HTTP/1.1" 200 6951 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "dimennabrotherspainting.com"
-176.9.10.227 - - [27/Dec/2015:05:38:31 -0800] "GET /services.html HTTP/1.1" 200 6875 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "dimennabrotherspainting.com"
-80.255.192.237 - - [27/Dec/2015:11:15:10 -0800] "GET /wp-admin/admin-ajax.php?action=revslider_show_image&img=../wp-config.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8" "dimennabrotherspainting.com"

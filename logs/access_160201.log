@@ -1,7 +1,0 @@
-100.43.90.8 - - [30/Jan/2016:16:08:02 -0800] "GET /_css/main.css HTTP/1.1" 200 27326 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)" "dimennabrotherspainting.com"
-71.189.164.218 - - [30/Jan/2016:17:22:50 -0800] "GET /about.html HTTP/1.1" 200 6204 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:33.0) Gecko/20100101 Firefox/33.0" "dimennabrotherspainting.com"
-107.21.1.8 - - [30/Jan/2016:17:23:33 -0800] "GET /favicon.ico HTTP/1.1" 404 89 "http://www.dimennabrotherspainting.com/favicon.ico" "Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)" "www.dimennabrotherspainting.com"
-84.204.166.219 - - [31/Jan/2016:03:33:29 -0800] "GET / HTTP/1.1" 200 6951 "-" "Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.75 Safari/535.7" "dimennabrotherspainting.com"
-64.235.52.218 - - [31/Jan/2016:04:41:35 -0800] "GET /robots.txt HTTP/1.1" 200 54 "-" "Mozilla/5.0 (compatible; houzzbot; +http://www.houzz.com/)" "dimennabrotherspainting.com"
-64.235.52.218 - - [31/Jan/2016:04:41:35 -0800] "GET / HTTP/1.1" 200 6951 "-" "Mozilla/5.0 (compatible; houzzbot; +http://www.houzz.com/)" "dimennabrotherspainting.com"
-180.76.15.22 - - [31/Jan/2016:12:41:51 -0800] "GET /robots.txt HTTP/1.1" 200 54 "-" "Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2" "www.dimennabrotherspainting.com"
