@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- Microdata markup added by Google Structured Data Markup Helper. -->
 <html>
     <head>
         <meta charset="UTF-8">
@@ -30,9 +31,9 @@
             });
         });
         </script>
-        <div class="container">
+        <div itemscope itemtype="http://schema.org/LocalBusiness" class="container">
             <a href="index.html">
-                <img class="logo" src="_img/dimennalogo.png" alt="DiMenna Brothers Painting and Power Washing" />
+                <img itemprop="image" class="logo" src="_img/dimennalogo.png" alt="DiMenna Brothers Painting and Power Washing" />
             </a>
             <ul>
                 <a href="index.html">
@@ -46,14 +47,14 @@
                 </a>
             </ul>
             <img class="alist" src="_img/alist.png" alt="See my reviews on Angie&rsquo;s List!" />
-            <p>Winner&nbsp;of<br />2013<br />Angie&rsquo;s&nbsp;List<br />Super&nbsp;Service<br />Award<p></p>
+            <p>Winner&nbsp;of<br />2013-2020<br />Angie&rsquo;s&nbsp;List<br />Super&nbsp;Service<br />Award<p></p>
             <div class="content">
                 <div class="aboutus">
                     <img class="sideimg" src="_assets/DiMenna_300.jpg" alt="DiMenna Brothers Painting and Power Washing" />
                     <div id="contact-form">
                     	<h2>Contact us, today!<br /></h2>
-                        <h2>610-724-6352<br /></h2>
-                        <h2><a href="mailto:bobdimenna@comcast.net">bobdimenna@comcast.net</a></h2>
+						<h2><span itemprop="telephone">610-724-6352</span><br /></h2>
+                        <h2><a href="mailto:bobdimenna@comcast.net"><span itemprop="email">bobdimenna@comcast.net</span></a></h2>
 
                    <!--     <?php
                             $name = $_POST['name'];
@@ -118,7 +119,7 @@
                 </div>
             </div>
             <footer>
-                <p>&copy; 2015 Dimenna Brothers Painting &amp; Power Washing, all rights reserved.</p>
+                <p>&copy; 2020 <span itemprop="name">Dimenna Brothers Painting &amp; Power Washing</span>, all rights reserved.</p>
             </footer>
         </div>
     </body>
